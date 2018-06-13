@@ -1,0 +1,11 @@
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp2.0\LambdaFunctions.deps.json
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp2.0\LambdaFunctions.runtimeconfig.json
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp2.0\LambdaFunctions.runtimeconfig.dev.json
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp2.0\LambdaFunctions.dll
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\bin\Debug\netcoreapp2.0\LambdaFunctions.pdb
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp2.0\LambdaFunctions.csprojResolveAssemblyReference.cache
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp2.0\LambdaFunctions.csproj.CoreCompileInputs.cache
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp2.0\LambdaFunctions.AssemblyInfoInputs.cache
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp2.0\LambdaFunctions.AssemblyInfo.cs
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp2.0\LambdaFunctions.dll
+C:\Users\ehala\Source\Repos\LambdaFunctions\LambdaFunctions\obj\Debug\netcoreapp2.0\LambdaFunctions.pdb
